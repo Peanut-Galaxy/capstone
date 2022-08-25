@@ -9,6 +9,7 @@ Meeting discussed:
     - create an analytics tool for a newspaper or professor
     - longboarding/skateboarding analytics ideas
     - image recognition
+    - compiler (for mindustry)
 
 To do:
 
